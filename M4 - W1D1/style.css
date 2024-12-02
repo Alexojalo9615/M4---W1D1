@@ -1,0 +1,66 @@
+body {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    font-size: 20px;
+    order: 4, 5, 1;
+}
+
+
+.father {
+
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: center;
+    width: 500px;
+    margin-top: 2rem;
+
+
+}
+
+.es1 input {
+
+    width: 300px;
+    height: 50px;
+}
+
+.es3 input {
+
+    width: 300px;
+    height: 50px;
+}
+
+#primo4 {
+    width: 300px;
+    height: 50px;
+
+}
+
+#son {
+
+    text-align: end;
+}
+
+#son3 input {
+
+    width: 300px;
+    height: 50px;
+}
+
+#son3 label {
+
+    font-size: 28px;
+    margin-right: 4rem;
+}
+
+#son4 input {
+
+    width: 300px;
+    height: 50px;
+}
+
+#son4 label {
+
+    font-size: 30px;
+}
